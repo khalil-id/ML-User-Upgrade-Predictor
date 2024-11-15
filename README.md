@@ -1,10 +1,10 @@
-#ML-Student-Upgrade-Predictor
+# ML-User-Upgrade-Predictor
 
-🎯 Project Description
+## 🎯 Project Description
 
-A machine learning classification system that predicts whether free-tier students will upgrade to paid subscriptions based on their engagement metrics. This project implements various ML models to analyze student behavior patterns and identify potential premium users.
+A machine learning classification system that predicts whether free-tier students(users) will upgrade to paid subscriptions based on their engagement metrics. This project implements various ML models to analyze student behavior patterns and identify potential premium users.
 
-🔍 Key Features
+## 🔍 Key Features
 
 -Analyzes student engagement metrics including:
   Platform usage duration
@@ -21,21 +21,21 @@ A machine learning classification system that predicts whether free-tier student
 -Handles imbalanced dataset scenarios
 -Focuses on business-critical conversion prediction
 
-💡 Business Impact
+## 💡 Business Impact
 
 Enables targeted marketing campaigns
 Optimizes advertisement spend
 Improves customer conversion rates
 Enhances revenue optimization strategies
 
-🛠️ Technical Highlights
+## 🛠️ Technical Highlights
 
 Processes anonymized student engagement data
 Implements various ML classification algorithms
 Includes options for handling imbalanced datasets
 Provides model performance comparisons
 
-📊 Dataset
+## 📊 Dataset
 
 The project uses anonymized student engagement data, featuring:
   Daily platform engagement metrics
@@ -43,9 +43,20 @@ The project uses anonymized student engagement data, featuring:
   Course enrollment data
   Subscription status (target variable)
 
-🎯 Use Cases
+## 🎯 Use Cases
 
 Predict potential premium subscribers
 Target marketing campaigns
 Optimize customer outreach
 Improve conversion strategies
+
+
+### 🛠️ Project requirements
+
+  Python 3 (or newer)
+  pandas
+  matplotlib
+  statsmodels
+  scikit-learn
+  numpy
+  seaborn
